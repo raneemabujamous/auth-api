@@ -9,7 +9,6 @@
 Heroku:
 https://lab8raneem.herokuapp.com/
 Github Actions:
-https://github.com/raneemabujamous/bearer-auth/actions
-
+https://github.com/raneemabujamous/auth-api/actions
 pull request :
 https://github.com/raneemabujamous/auth-api/tree/dev
